@@ -1,7 +1,7 @@
 *{ 
-    font-family: Veranda, Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Veranda, Geneva, Tahoma, sans-serif;
     background-color: black;
-    color: antiquewhite;
+    color: white;
 }
 
 
@@ -9,7 +9,7 @@ h1{
     color: aliceblue;
 }
 
-h1, form, #result{
+h1, form, #result {
     text-align: center;
 }
 
