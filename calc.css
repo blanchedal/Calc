@@ -1,0 +1,19 @@
+*{ 
+    font-family: Veranda, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+h1{
+    color: aliceblue;
+}
+
+h1, form, #result{
+    text-align: center;
+}
+
+#result{
+    background-color:yellow;
+    color: black;
+}
